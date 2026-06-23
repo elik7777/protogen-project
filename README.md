@@ -7,3 +7,5 @@ I will post all this so I don't forget.
 3d: I used a K9 3d printer (don't buy this shit)
 
 scheme: I used EasyEDA
+
+code: Arduino IDE
