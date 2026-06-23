@@ -3,3 +3,5 @@ Hi, elik7777 here. I want to post materials here for creating my Protogen suit. 
 
 
 I will post all this so I don't forget.
+
+3d: I used a K9 3d printer (don't buy this shit)
