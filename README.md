@@ -11,3 +11,4 @@ scheme: I used EasyEDA
 code: Arduino IDE
 
 27.06.2026: Im using AI for test code
+27.06.2026: Add obstacle sensor, LCD with i2c and photoresistor
