@@ -9,3 +9,5 @@ I will post all this so I don't forget.
 scheme: I used EasyEDA
 
 code: Arduino IDE
+
+27.06.2026 add obstacle sensor, LCD with i2c and photoresistor
